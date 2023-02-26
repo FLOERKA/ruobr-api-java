@@ -13,5 +13,5 @@ Map<String, Object> hashMap = api.toMap(json);
 
 ## Важно!
 Автор проекта не имеет отношения к ООО "МИРИТ". Автор не несёт ответственность за последствия его использования от сторонних лиц. Исходный код находится в общем доступе
-Идея модуля была взята с [другого рпеозитория на Python](https://github.com/raitonoberu/ruobr_api/commits?author=raitonoberu)
+Идея модуля была взята с [другого рпеозитория на Python](https://github.com/raitonoberu/ruobr_api)
 
